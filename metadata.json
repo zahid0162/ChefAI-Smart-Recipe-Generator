@@ -1,0 +1,7 @@
+{
+  "name": "ChefAI: Smart Recipe Generator",
+  "description": "An intelligent culinary assistant that generates creative recipes based on the ingredients you have on hand. Scan your fridge or type your items to get started.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
